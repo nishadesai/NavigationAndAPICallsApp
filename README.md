@@ -62,8 +62,8 @@ This is a React Native application that includes navigation between two screens 
 ## Folder Structure
 
 - **screens/**: Contains the screen components.
-  - **HomeScreen.js**: Displays a list of items fetched from the API.
-  - **DetailsScreen.js**: Displays details of a selected item.
+  - **HomePage.js**: Displays a list of items fetched from the API.
+  - **DetailsPage.js**: Displays details of a selected item.
 - **App.js**: Entry point of the application and Contains the navigation setup using React Navigation.
 
 ## API Used
