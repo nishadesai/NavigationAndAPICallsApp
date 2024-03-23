@@ -43,6 +43,7 @@ const HomePage = ({ navigation }) => {
 // Styles 
 const styles = StyleSheet.create({
   container: {
+    flex: 1,
     backgroundColor: '#76b5c5'
   },
   title: {
